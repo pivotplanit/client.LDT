@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIVOTPLANIT Performance Update</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: 'IBM Plex Sans', Arial, sans-serif; background-color: #ffffff; color: #333333;">
+    
+    <!-- Simple container -->
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff;">
+        <tr>
+            <td align="center" style="padding: 20px 10px;">
+                
+                <!-- Main content table -->
+                <table width="600" cellpadding="0" cellspacing="0" border="0" style="max-width: 600px; background-color: #ffffff; border: 1px solid #e5e5e5;">
+                    
+                    <!-- Header -->
+                    <tr>
+                        <td style="padding: 0;">
+                            <!-- Gradient accent line using multiple colored divs -->
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td style="background-color: #2F4F4F; height: 4px; width: 50%;"></td>
+                                    <td style="background-color: #708090; height: 4px; width: 30%;"></td>
+                                    <td style="background-color: #CD853F; height: 4px; width: 20%;"></td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Header content with subtle background -->
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td style="padding: 35px 30px; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-bottom: 1px solid #e5e5e5;">
+                                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                            <tr>
+                                                <!-- Brand side -->
+                                                <td style="vertical-align: middle; width: 65%;">
+                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                        <tr>
+                                                            <td style="vertical-align: middle; padding-right: 15px;">
+                                                                <!-- Simple geometric logo using CSS -->
+                                                                <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #2F4F4F 0%, #708090 50%, #CD853F 100%); border-radius: 8px; display: inline-block; position: relative;">
+                                                                    <div style="position: absolute; top: 12px; left: 12px; width: 24px; height: 24px;">
+                                                                        <div style="width: 10px; height: 8px; background-color: rgba(255,255,255,0.9); border-radius: 2px; margin-bottom: 2px;"></div>
+                                                                        <div style="width: 14px; height: 12px; background-color: rgba(255,255,255,0.7); border-radius: 2px; margin-left: 8px;"></div>
+                                                                        <div style="width: 4px; height: 4px; background-color: rgba(255,255,255,0.5); border-radius: 50%; margin-top: 2px; margin-left: 4px;"></div>
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td style="vertical-align: middle;">
+                                                                <h1 style="margin: 0 0 3px 0; color: #2F4F4F; font-size: 32px; font-weight: bold; letter-spacing: -1px; font-family: Arial, sans-serif; text-shadow: 0 1px 2px rgba(0,0,0,0.1);">PIVOTPLANIT</h1>
+                                                                <p style="margin: 0; color: #708090; font-size: 12px; text-transform: uppercase; letter-spacing: 1.5px; font-weight: 600;">Digital Performance Update</p>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                                
+                                                <!-- Update info side -->
+                                                <td style="vertical-align: middle; text-align: right; width: 35%;">
+                                                    <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(47,79,79,0.1); border-left: 4px solid #CD853F;">
+                                                        <p style="margin: 0 0 5px 0; color: #2F4F4F; font-size: 18px; font-weight: bold; letter-spacing: -0.3px;">Week 2 Report</p>
+                                                        <p style="margin: 0 0 5px 0; color: #666666; font-size: 14px; font-weight: 500;">Oct 9-15, 2025</p>
+                                                        <p style="margin: 0; color: #CD853F; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Longmont Dog Training</p>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- Project Status -->
+                    <tr>
+                        <td style="padding: 25px;">
+                            <h2 style="margin: 0 0 15px 0; color: #2F4F4F; font-size: 18px; border-left: 4px solid #2F4F4F; padding-left: 10px;">Project Status</h2>
+                            
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 20px;">
+                                <tr>
+                                    <td style="padding: 5px 0; color: #666666; font-size: 14px; width: 40%;">Overall Status:</td>
+                                    <td style="padding: 5px 0; color: #2F4F4F; font-size: 14px; font-weight: bold;">On Track</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 5px 0; color: #666666; font-size: 14px;">Timeline:</td>
+                                    <td style="padding: 5px 0; color: #2F4F4F; font-size: 14px; font-weight: bold;">4 weeks into 8-week project</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 5px 0; color: #666666; font-size: 14px;">Progress:</td>
+                                    <td style="padding: 5px 0; color: #2F4F4F; font-size: 14px; font-weight: bold;">50% Complete</td>
+                                </tr>
+                            </table>
+                            
+                            <!-- Simple progress bar -->
+                            <div style="background-color: #f0f0f0; height: 8px; border-radius: 4px; margin: 15px 0;">
+                                <div style="background-color: #2F4F4F; height: 8px; width: 50%; border-radius: 4px;"></div>
+                            </div>
+                        </td>
+                    </tr>
+                    
+                    <!-- Performance Overview -->
+                    <tr>
+                        <td style="padding: 0 25px 25px 25px; border-top: 1px solid #e5e5e5;">
+                            <h2 style="margin: 20px 0 15px 0; color: #2F4F4F; font-size: 18px; border-left: 4px solid #2F4F4F; padding-left: 10px;">Performance Overview</h2>
+                            
+                            <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td width="33%" style="padding: 10px; text-align: center; vertical-align: top;">
+                                            <div style="font-size: 32px; font-weight: bold; color: #2F4F4F; margin-bottom: 5px;">61</div>
+                                            <p style="margin: 0; color: #708090; font-size: 14px;">Nextdoor Page Views</p>
+                                            <p style="margin: 0; color: #CD853F; font-size: 12px; font-weight: bold;">▲ 56.4%</p>
+                                        </td>
+                                        <td width="33%" style="padding: 10px; text-align: center; vertical-align: top;">
+                                            <div style="font-size: 32px; font-weight: bold; color: #2F4F4F; margin-bottom: 5px;">49</div>
+                                            <p style="margin: 0; color: #708090; font-size: 14px;">Facebook Page Views</p>
+                                            <p style="margin: 0; color: #CD853F; font-size: 12px; font-weight: bold;">New Baseline</p>
+                                        </td>
+                                        <td width="33%" style="padding: 10px; text-align: center; vertical-align: top;">
+                                            <div style="font-size: 32px; font-weight: bold; color: #2F4F4F; margin-bottom: 5px;">5</div>
+                                            <p style="margin: 0; color: #708090; font-size: 14px;">Profile Viewers</p>
+                                            <p style="margin: 0; color: #CD853F; font-size: 12px; font-weight: bold;">↑ from 0</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            
+                            <p style="color: #333333; font-size: 14px; line-height: 1.5; margin-bottom: 15px;">
+                                We've seen strong initial growth in page visibility on both Nextdoor and Facebook. The data shows we're establishing a solid baseline, with early positive trends in audience engagement.
+                            </p>
+                            
+                            <p style="color: #333333; font-size: 14px; line-height: 1.5;">
+                                <strong>Key Insight:</strong> Photos are driving 83.7% of all Facebook content engagement, which aligns with our strategy to showcase James's work with dogs in Longmont.
+                            </p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Completed This Week -->
+                    <tr>
+                        <td style="padding: 0 25px 25px 25px; border-top: 1px solid #e5e5e5;">
+                            <h2 style="margin: 20px 0 15px 0; color: #2F4F4F; font-size: 18px; border-left: 4px solid #2F4F4F; padding-left: 10px;">Completed This Week</h2>
+                            
+                            <ul style="margin: 0; padding-left: 20px; color: #333333; font-size: 14px; line-height: 1.6;">
+                                <li style="margin-bottom: 8px;"><strong>Organic Content Creation:</strong> 5 additional branded posts created and published</li>
+                                <li style="margin-bottom: 8px;"><strong>Google Business Profile:</strong> Updated service areas with Longmont as primary location</li>
+                                <li style="margin-bottom: 8px;"><strong>Review Link Distribution:</strong> Created desktop-compatible review link for clients</li>
+                                <li style="margin-bottom: 8px;"><strong>Performance Analysis:</strong> Analyzed content engagement patterns for optimization</li>
+                            </ul>
+
+                            <div style="background-color: #f8f9fa; border-left: 3px solid #CD853F; padding: 15px; margin-top: 15px; border-radius: 4px;">
+                                <p style="margin: 0; color: #333333; font-size: 14px; font-style: italic;">
+                                    Note: We'll be implementing the paid advertising strategy starting next week ($10/day across platforms) as we discussed in our initial plan. Ashish's team returns Thursday and will help set up the campaign.
+                                </p>
+                            </div>
+                        </td>
+                    </tr>
+
+                    <!-- Issue Resolution -->
+                    <tr>
+                        <td style="padding: 0 25px 25px 25px; border-top: 1px solid #e5e5e5;">
+                            <h2 style="margin: 20px 0 15px 0; color: #2F4F4F; font-size: 18px; border-left: 4px solid #2F4F4F; padding-left: 10px;">Issue Resolution</h2>
+                            
+                            <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+                                <h3 style="margin: 0 0 10px 0; color: #CD853F; font-size: 16px;">Google Business Location Optimization</h3>
+                                
+                                <p style="color: #333333; font-size: 14px; line-height: 1.5; margin-bottom: 15px;">
+                                    <strong>Issue:</strong> Because Longmont Dog Training doesn't have a physical address, Google currently lists Erie as the primary service area, affecting local search visibility.
+                                </p>
+                                
+                                <p style="color: #333333; font-size: 14px; line-height: 1.5; margin-bottom: 15px;">
+                                    <strong>Solution:</strong> We're reordering service areas to list Longmont first, adding more Longmont-specific content, and building up local reviews to improve ranking in local searches.
+                                </p>
+                                
+                                <p style="color: #333333; font-size: 14px; line-height: 1.5;">
+                                    <strong>Expected Impact:</strong> This adjustment should improve visibility in Longmont searches within 4-6 weeks as we build local content and reviews.
+                                </p>
+                            </div>
+                        </td>
+                    </tr>
+                    
+                    <!-- Next Week's Plan -->
+                    <tr>
+                        <td style="padding: 0 25px 25px 25px; border-top: 1px solid #e5e5e5;">
+                            <h2 style="margin: 20px 0 15px 0; color: #2F4F4F; font-size: 18px; border-left: 4px solid #2F4F4F; padding-left: 10px;">Next Week's Plan</h2>
+                            
+                            <div style="background-color: #f8f9fa; padding: 15px; border-radius: 6px; border-left: 4px solid #CD853F;">
+                                <ul style="margin: 0; padding-left: 20px; color: #333333; font-size: 14px; line-height: 1.6;">
+                                    <li style="margin-bottom: 8px;"><strong>Paid Advertising Launch:</strong> Begin $10/day campaign across platforms on October 27</li>
+                                    <li style="margin-bottom: 8px;"><strong>Ad Creative Development:</strong> Finalize messaging and visuals for Google, Facebook, and Nextdoor ads</li>
+                                    <li style="margin-bottom: 8px;"><strong>Review Collection:</strong> Continue campaign to collect 5+ Google reviews</li>
+                                    <li style="margin-bottom: 8px;"><strong>Longmont-Focused Content:</strong> Create more local content highlighting training locations</li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                    
+                    <!-- Client Action Required -->
+                    <tr>
+                        <td style="padding: 0 25px 25px 25px; border-top: 1px solid #e5e5e5;">
+                            <h2 style="margin: 20px 0 15px 0; color: #2F4F4F; font-size: 18px; border-left: 4px solid #2F4F4F; padding-left: 10px;">Action Items for You</h2>
+                            
+                            <ul style="margin: 0; padding-left: 20px; color: #333333; font-size: 14px; line-height: 1.6;">
+                                <li style="margin-bottom: 15px;">
+                                    <strong>Share this review link with clients:</strong><br>
+                                    <a href="https://g.page/r/Cd0xJRsOjzkMEAE/review" style="color: #CD853F; word-break: break-all;">https://g.page/r/Cd0xJRsOjzkMEAE/review</a>
+                                    <p style="margin: 5px 0 0 0; font-size: 13px; color: #708090;">
+                                        Works on all devices including laptops
+                                    </p>
+                                </li>
+                                <li style="margin-bottom: 15px;">
+                                    <strong>Send us 2-3 "before and after" training photos</strong> of recent client success stories for next week's content
+                                    <p style="margin: 5px 0 0 0; font-size: 13px; color: #708090;">
+                                        Photos perform 5x better than text-only content
+                                    </p>
+                                </li>
+                                <li style="margin-bottom: 8px;">
+                                    <strong>Approve the updated Longmont-focused service areas</strong> in Google Business Profile
+                                </li>
+                            </ul>
+                            
+                            <p style="margin: 15px 0 0 0; color: #333333; font-size: 14px;">
+                                Questions? Just reply to this email or call me directly at (234) 567-8900.
+                            </p>
+                        </td>
+                    </tr>
+                    
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background-color: #f8f9fa; padding: 25px; text-align: left; border-top: 1px solid #e5e5e5;">
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td style="vertical-align: top; width: 60%;">
+                                        <p style="margin: 0 0 5px 0; color: #2F4F4F; font-size: 16px; font-weight: bold; letter-spacing: -0.3px;">PIVOTPLANIT</p>
+                                        <p style="margin: 0 0 12px 0; color: #708090; font-size: 12px; font-style: italic;">Operational infrastructure that actually works.</p>
+                                        <p style="margin: 0; color: #666666; font-size: 12px;">
+                                            <a href="mailto:alecia@pivotplanit.com" style="color: #CD853F; text-decoration: none;">alecia@pivotplanit.com</a><br>
+                                            <a href="https://pivotplanit.com" style="color: #CD853F; text-decoration: none;">pivotplanit.com</a>
+                                        </p>
+                                    </td>
+                                    <td style="vertical-align: top; text-align: right; width: 40%;">
+                                        <p style="margin: 0 0 8px 0; color: #666666; font-size: 12px;">Schedule a call to discuss this report?</p>
+                                        <a href="mailto:alecia@pivotplanit.com" style="background-color: #2F4F4F; color: #ffffff; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 12px; font-weight: 600; display: inline-block;">Book 15 Minutes</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                </table>
+                
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
