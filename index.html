@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Longmont Dog Training | Client Portal Preview</title>
+    <title>Longmont Dog Training | Client Portal</title>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -20,6 +20,18 @@
             --peru: #CD853F;
             --border: #2D2E3F;
             --gradient-primary: linear-gradient(135deg, #2F4F4F 0%, #708090 50%, #CD853F 100%);
+        }
+        /* Light Mode Override */
+        @media (prefers-color-scheme: light) {
+            :root {
+                --dark-bg: #f8f9fa;
+                --surface: #ffffff;
+                --surface-light: #f0f0f0;
+                --text-primary: #505050;
+                --text-secondary: #505050;
+                --text-muted: #6c757d;
+                --border: #e0e0e0;
+            }
         }
         
         * {
@@ -560,9 +572,9 @@
     </style>
 </head>
 <body>
-    <div class="preview-banner">
+    <!--div class="preview-banner">
         Portal Preview - https://pivotplanit.github.io/client.LDT/
-    </div>
+    </div-->
 
     <header>
         <div class="header-content">
@@ -573,7 +585,7 @@
             <div class="client-info">
                 <img src="https://ui-avatars.com/api/?name=James&background=2F4F4F&color=fff" alt="Client Avatar">
                 <div>
-                    <div class="client-name">James</div>
+                    <div class="client-name">Carol | James</div>
                     <div class="client-project">Longmont Dog Training</div>
                 </div>
             </div>
@@ -589,8 +601,8 @@
                     <li><a href="#"><i class="fas fa-chart-line"></i> Performance</a></li>
                     <li><a href="#"><i class="fas fa-tasks"></i> Tasks</a></li>
                     <li><a href="#"><i class="fas fa-file-alt"></i> Reports</a></li>
-                    <li><a href="#"><i class="fas fa-camera"></i> Assets</a></li>
-                    <li><a href="#"><i class="fas fa-cog"></i> Settings</a></li>
+                    <!--li><a href="#"><i class="fas fa-camera"></i> Assets</a></li>
+                    <li><a href="#"><i class="fas fa-cog"></i> Settings</a></li-->
                 </ul>
             </nav>
         </div>
@@ -603,7 +615,7 @@
                 </div>
                 <div class="card-body">
                     <div class="project-info">
-                        <div>Project Start: September 29, 2025</div>
+                        <div>Project Official Start: September 29, 2025</div>
                         <div>Estimated Completion: November 29, 2025</div>
                     </div>
                     
@@ -747,7 +759,7 @@
             <div class="card">
                 <div class="card-header">
                     <div class="card-title">Latest Reports</div>
-                    <a href="#" style="color: var(--peru); font-size: 0.8rem; text-decoration: none;">View All</a>
+                    <!--a href="#" style="color: var(--peru); font-size: 0.8rem; text-decoration: none;">View All</a-->
                 </div>
                 <div class="card-body">
                     <ul class="docs-list">
@@ -764,7 +776,7 @@
                             </div>
                         </li>
                         <li>
-                            <div class="doc-item">
+                            <!--div class="doc-item">
                                 <div class="doc-icon">
                                     <i class="fas fa-ad"></i>
                                 </div>
@@ -785,7 +797,7 @@
                                     <div class="doc-meta">Sep 29, 2025 • Research Report</div>
                                 </div>
                                 <a href="#" class="doc-action">View</a>
-                            </div>
+                            </div-->
                         </li>
                     </ul>
                 </div>
@@ -794,7 +806,7 @@
             <div class="card">
                 <div class="card-header">
                     <div class="card-title">Action Items</div>
-                    <a href="#" style="color: var(--peru); font-size: 0.8rem; text-decoration: none;">View All</a>
+                    <!--a href="#" style="color: var(--peru); font-size: 0.8rem; text-decoration: none;">View All</a-->
                 </div>
                 <div class="card-body">
                     <ul class="tasks-list">
@@ -840,7 +852,7 @@
         <p>© 2025 PIVOTPLANIT | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
     </footer>
 
-    <div class="preview-overlay">
+    <!-- div class="preview-overlay">
         <div class="preview-modal">
             <div class="preview-title">Client Portal Preview</div>
             <p style="color: var(--text-secondary); margin-bottom: 1.5rem;">
@@ -862,7 +874,7 @@
                 <strong>Portal Features:</strong> Project timeline tracking, performance metrics, document repository, action items management, paid advertising preparation, and a responsive design that works on all devices.
             </p>
         </div>
-    </div>
+</div-->
 
     <script>
         // Tab functionality
